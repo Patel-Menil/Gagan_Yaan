@@ -1,0 +1,9 @@
+Library/
+Logs/
+obj/
+UserSettings/
+.vs/
+.plastic/
+*.csproj
+*.sln
+
